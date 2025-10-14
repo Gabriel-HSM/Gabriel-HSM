@@ -29,7 +29,7 @@ Hoje, continuo ampliando meus conhecimentos de forma **autodidata**, utilizando 
 - 🧩 **Solução de problemas técnicos**
 
 ---
-##  **Experiências e Objetivos**
+##  **Experiências**
 
 ### 💼 **IEL Corretora**  
 **Desenvolvedor Full Stack**  
