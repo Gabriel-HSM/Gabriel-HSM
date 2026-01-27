@@ -15,7 +15,6 @@ Hoje, continuo ampliando meus conhecimentos de forma **autodidata**, utilizando 
 - 🧩 **Git & GitHub**  
 - 🌐 **HTML5, CSS3 e JavaScript**  
 - ⚙️ **C#**  
-- 🐘 **PHP**
 - 🗄️ **MySQL / SQL**  
 - 🧱 **Banco de dados**
 - 💻 **Dbeaver** 
