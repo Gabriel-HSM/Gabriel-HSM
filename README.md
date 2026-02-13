@@ -2,7 +2,7 @@
 
 💡 **Apaixonado por tecnologia e inovação!**  
 
-Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela **Uniasselvi**, com foco em crescimento como **desenvolvedor full stack**.  
+Graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela **Uniasselvi**, com foco em crescimento como **desenvolvedor back-end**.  
 
 Minha trajetória começou na **manutenção de computadores, suporte técnico** e **treinamento de jovens** em informática básica. Nesse ambiente, desenvolvi habilidades práticas com **montagem e reparo de equipamentos**, **atendimento ao público** e **resolução de problemas técnicos**.  
 
